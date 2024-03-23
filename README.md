@@ -1,20 +1,17 @@
 # mahbubahabib.github.io
-
-
 ## Technical Skills: Python, C,C++
-
 ## Education
 - B.Sc, Rajshahi University of Engineering & TEchnology(2019-2024)
   (CGPA: 3.77 out of 4.00)
 
-  
 - HSC, Holy Cross College (2016-2018)
   (CGPA: 4.83 out of 5.00)
-
            
 - SSC, Mohammadpur Preparatory Higher Secondary School (2014-2016)
   (CGPA: 5.00 out of 5.00)
+  
 ## Projects
+
 **Online Food Ordering**
 ![Details](https://github.com/mahbuba26/FoodAppNew)
 
