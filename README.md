@@ -13,22 +13,23 @@
 ## Projects
 
 **Online Food Ordering**
-![Details](https://github.com/mahbuba26/FoodAppNew)
+![Details in Github](https://github.com/mahbuba26/FoodAppNew)
 
 **Calorie Counter**
-![Details](https://github.com/mahbuba26/Diet-Care)
+![Details in Github](https://github.com/mahbuba26/Diet-Care)
 
 **Online Quiz App**
-![Details](https://ithub.com/mahbuba26/Online-Quiz)
+![Details in Github](https://github.com/mahbuba26/Online-Quiz)
 
 **Car Counter using Machine Learning**
-(ongoing)
+(Ongoing Project)
 
 **Half Bridge Inverter**
-![Details](https://github.com/mahbuba26/Half-bridge-inverter)
+![Details in Github](https://github.com/mahbuba26/Half-bridge-inverter)
 
-## Courses:
-* 
+## Courses in Coursera:
+* Programming for Everybody (Getting Started with Python)
+* Algorithmic Toolbox
 
 ## Internship
 Performed in Code Studio 
