@@ -27,7 +27,8 @@ Accomplished streamlined user experience as measured by enhanced user engagement
 [Details in Github](https://github.com/mahbuba26/Diet-Care)
 
 **Online Quiz App**
- Improved students' learning experience and assessment skills were achieved through the development of an interactive online quiz application. This was made possible by creating a user-friendly interface and providing customized multiple-choice questions, resulting in higher engagement and enhanced performance.
+
+Improved students' learning experience and assessment skills were achieved through the development of an interactive online quiz application. This was made possible by creating a user-friendly interface and providing customized multiple-choice questions, resulting in higher engagement and enhanced performance.
  
 [Details in Github](https://github.com/mahbuba26/Online-Quiz)
 
