@@ -14,23 +14,20 @@
 ## Projects
 **Online Food Ordering**
 
-Successfully delivered in-depth health information including Body Mass Index (BMI), Basal Metabolic Rate (BMR), and customized calorie requirements through the creation of a user-focused Android app using Java. This accomplishment was made possible by emphasizing user-friendly design and ease of access. Furthermore, achieved accurate monitoring and management of data within the app, ensuring precise tracking of users' daily calorie consumption, through the skillful implementation of a specific feature. This success was a result of meticulous attention to detail and proficient use of Java programming skills.
+Successfully delivered in-depth health information including Body Mass Index (BMI), Basal Metabolic Rate (BMR), and customized calorie requirements through the creation of a user-focused Android app using Java. This accomplishment was made possible by emphasizing user-friendly design and ease of access. Furthermore, achieved accurate monitoring and management of data within the app, ensuring precise tracking of users' daily calorie consumption, through the skillful implementation of a specific feature. This success was a result of meticulous attention to detail and proficient use of Java programming skills.[Details in Github](https://github.com/mahbuba26/FoodAppNew)
 
-[Details in Github](https://github.com/mahbuba26/FoodAppNew)
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 **Calorie Counter**
 
-Accomplished streamlined user experience as measured by enhanced user engagement and satisfaction, by developing a comprehensive Android application leveraging Java and Firebase. Integrated intuitive user interface design, admin panel for seamless management, user activity tracking, and customizable rider options.
-
-[Details in Github](https://github.com/mahbuba26/Diet-Care)
+Accomplished streamlined user experience as measured by enhanced user engagement and satisfaction, by developing a comprehensive Android application leveraging Java and Firebase. Integrated intuitive user interface design, admin panel for seamless management, user activity tracking, and customizable rider options.[Details in Github](https://github.com/mahbuba26/Diet-Care)
 
 **Online Quiz App**
 
 Improved students' learning experience and assessment skills were achieved through the development of an interactive online quiz application. This was made possible by creating a user-friendly interface and providing customized multiple-choice questions, resulting in higher engagement and enhanced performance.
  
 [Details in Github](https://github.com/mahbuba26/Online-Quiz)
+
+[App Demo](https://github.com/mahbuba26/Online-Quiz/issues/1#issue-2203886806)
 
 **Car Counter using Machine Learning**
 (Ongoing Project)
