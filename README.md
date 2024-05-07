@@ -1,4 +1,3 @@
-# Electrical & Computer Engineer
 ## Technical Skills: Python, C,C++
 ## Education
 - B.Sc in Electrical and Computer Engineering | Rajshahi University of Engineering & Technology (_May 2024_)
@@ -70,5 +69,10 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 ## Thesis
 1. Mahbuba Habib, Hafsa Binte Kibria, “Feature Selection-based Machine Learning Approaches for Detecting Android Malware with Explainable AI”  (Accepted in ICAEEE
-2024, 3rd International Conference on Advancement in Electrical and Electronic Engineering, DUET, Dhaka, Bangladesh) 
+2024, 3rd International Conference on Advancement in Electrical and Electronic Engineering, DUET, Dhaka, Bangladesh)
+
+## Contact
+Gmail:  mahbuba.eceruet@gmail.com
+LinkedIn: https://www.linkedin.com/in/mahbuba-h-408b461a6/
+   
 
