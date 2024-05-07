@@ -69,6 +69,6 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 
 ## Thesis
-1. Mahbuba Habib, Hafsa Binte Kibria, “Feature Selection-based Machine Learning Approaches for Detecting Android Malware with Explainable AI” ,(Accepted in ICAEEE
+1. Mahbuba Habib, Hafsa Binte Kibria, “Feature Selection-based Machine Learning Approaches for Detecting Android Malware with Explainable AI”  (Accepted in ICAEEE
 2024, 3rd International Conference on Advancement in Electrical and Electronic Engineering, DUET, Dhaka, Bangladesh) 
 
