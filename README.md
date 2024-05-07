@@ -49,14 +49,23 @@ A collaborative project focused on developing a basic half bridge inverter utili
 ## Courses in Coursera:
 * Programming for Everybody (Getting Started with Python)
 * Algorithmic Toolbox
-  
+* Google Cloud Platform Fundamentals: Core Infrastructure
+* Command Line in Linux
+* Tricky American English Pronunciation
+* University Teaching
+* Introduction to public speaking
 
-## Internship
-Performed in Code Studio 
-![]()
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Courses in Udemy:
+* The complete java course: Learn from scratch
+* Java programming : Complete beginner to advanced
+* Learn web development from scratch
+
+## Activities
+- Performed internship in Code Studio on Machine Learning projects
+- Participated in IEEEXTREME 14.0 coding competition
+- Participated in Career catalyst that was organized by RUET CAREER FORUM
+- Active Ieee member participated in different seminars ans synmosiums
+- BDApps developer in Robi Axiata Ltd. 
 
 
 ## Thesis
