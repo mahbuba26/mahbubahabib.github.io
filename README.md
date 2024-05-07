@@ -73,6 +73,7 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 ## Contact
 Gmail:  mahbuba.eceruet@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/mahbuba-h-408b461a6/
    
 
