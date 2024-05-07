@@ -71,8 +71,8 @@ A collaborative project focused on developing a basic half bridge inverter utili
 2024, 3rd International Conference on Advancement in Electrical and Electronic Engineering, DUET, Dhaka, Bangladesh)
 
 ## Contact
-Gmail:  mahbuba.eceruet@gmail.com
+[Gmail](mahbuba.eceruet@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/mahbuba-h-408b461a6/
+[LinkedIn](https://www.linkedin.com/in/mahbuba-h-408b461a6/)
    
 
