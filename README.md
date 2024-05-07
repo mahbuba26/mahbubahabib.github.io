@@ -23,14 +23,14 @@ Successfully delivered in-depth health information including Body Mass Index (BM
 ### Calorie Counter
 Accomplished streamlined user experience as measured by enhanced user engagement and satisfaction, by developing a comprehensive Android application leveraging Java and Firebase. Integrated intuitive user interface design, admin panel for seamless management, user activity tracking, and customizable rider options.[(Details in Github)](https://github.com/mahbuba26/Diet-Care)
 
-![Calorie App Demo](/ff1.png)
-![Calorie App Demo](/assets/ff3.png)
+![Calorie App Demo](assets/dd1.png)
+![Calorie App Demo](/assets/dd2.png)
 
 ### Online Quiz App
 
 Improved students' learning experience and assessment skills were achieved through the development of an interactive online quiz application. This was made possible by creating a user-friendly interface and providing customized multiple-choice questions, resulting in higher engagement and enhanced performance.[(Details in Github)](https://github.com/mahbuba26/Online-Quiz)
 
-![Quiz App Demo](/quix.png)
+![Quiz App Demo](assets/q1.png)
 
 ### Car Counter using Machine Learning
 (Ongoing Project)
@@ -42,7 +42,7 @@ Led a team of three members in developing an OpenCV-based system for detecting a
 
 A collaborative project focused on developing a basic half bridge inverter utilizing Arduino technology.[(Details in Github)](https://github.com/mahbuba26/Half-bridge-inverter)
 
-![Inverter Demo](/erter.png)
+![Inverter Demo](assets/f1.png)
 
 ## Courses in Coursera:
 * Programming for Everybody (Getting Started with Python)
