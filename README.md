@@ -2,7 +2,7 @@
 ## Education
 - B.Sc in Electrical and Computer Engineering | Rajshahi University of Engineering & Technology (_May 2024_)
   
-  **CGPA:** 3.77 out of 4.00           		
+  **CGPA:** 3.78 out of 4.00           		
 - Higher Secondary School Certificate	| Holy Cross College (_July 2018_)
   
   **CGPA:** 4.83 out of 5.00           		
