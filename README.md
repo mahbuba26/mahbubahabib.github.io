@@ -49,7 +49,7 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 ## Courses in Coursera:
 * Programming for Everybody (Getting Started with Python)
-* Algorithmic Toolbox
+* [Algorithmic Toolbox](certificates/AlgorithmicToolbox.pdf)
 * Google Cloud Platform Fundamentals: Core Infrastructure
 * Command Line in Linux
 * Tricky American English Pronunciation
