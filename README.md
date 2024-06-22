@@ -48,13 +48,13 @@ A collaborative project focused on developing a basic half bridge inverter utili
 ![Inverter Demo](assets/f1.png)
 
 ## Courses in Coursera:
-* Programming for Everybody (Getting Started with Python)
+* [Programming for Everybody (Getting Started with Python)](certificates/python.pdf)
 * [Algorithmic Toolbox](certificates/AlgorithmicToolbox.pdf)
-* Google Cloud Platform Fundamentals: Core Infrastructure
-* Command Line in Linux
+* [Google Cloud Platform Fundamentals: Core Infrastructure](certificates/cloud.pdf)
+* [Command Line in Linux](certificates/Linux.pdf)
 * Tricky American English Pronunciation
 * University Teaching
-* Introduction to public speaking
+* [Introduction to public speaking](certificates/PublicSpeaking.pdf)
 
 ## Courses in Udemy:
 * The complete java course: Learn from scratch
@@ -63,6 +63,7 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 ## Activities
 - Performed internship in Code Studio on Machine Learning projects
+- [Workshop on Latex for technical writing and presentation] (certificates/Certificate_Mahbuba Habib.pdf)
 - Participated in IEEEXTREME 14.0 coding competition
 - Participated in Career catalyst that was organized by RUET CAREER FORUM
 - Active Ieee member participated in different seminars ans synmosiums
