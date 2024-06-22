@@ -59,8 +59,8 @@ A collaborative project focused on developing a basic half bridge inverter utili
 
 ## Courses in Udemy:
 * The complete java course: Learn from scratch
-* Java programming : Complete beginner to advanced
-* Learn web development from scratch
+* [Java programming:Complete beginner to advanced](certificates/Udemy/java.pdf)
+* [Learn web development from scratch](certificates/Udemy/web.pdf)
 
 ## Activities
 - [Performed internship in Code Studio on Machine Learning projects](Code Studio.png)
