@@ -1,8 +1,11 @@
-## Technical Skills: Python, C,C++
+## Technical Skills: C, C++, Python
 ## Education
 - B.Sc in Electrical and Computer Engineering | Rajshahi University of Engineering & Technology (_May 2024_)
+
+  **CGPA:** 3.78 out of 4.00
   
-  **CGPA:** 3.78 out of 4.00           		
+  **Academic Courses:** [ECE RUET Syllabus](https://ece.ruet.ac.bd/public/storage/files/ece-undergraduate-syllabus_1591597850.pdf)
+  	
 - Higher Secondary School Certificate	| Holy Cross College (_July 2018_)
   
   **CGPA:** 4.83 out of 5.00           		
