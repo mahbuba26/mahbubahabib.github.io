@@ -53,7 +53,7 @@ A collaborative project focused on developing a basic half bridge inverter utili
 * [Google Cloud Platform Fundamentals: Core Infrastructure](certificates/cloud.pdf)
 * [Command Line in Linux](certificates/Linux.pdf)
 * Tricky American English Pronunciation
-* [Build your first Android App](certificates/Coursera NW7Q7Y68C4CS.pdf)
+* [Build your first Android App](app.pdf)
 * University Teaching
 * [Introduction to public speaking](certificates/PublicSpeaking.pdf)
 
@@ -66,12 +66,12 @@ A collaborative project focused on developing a basic half bridge inverter utili
 - [Performed internship in Code Studio on Machine Learning projects](Code Studio.png)
 - Active Ieee member participated in different seminars ans synmosiums
 - BDApps developer in Robi Axiata Ltd. 
-- [Workshop on Latex for technical writing and presentation] (certificates/Certificate_Mahbuba Habib.pdf)
+- [Workshop on Latex for technical writing and presentation](latex.pdf)
 - [Participated in IEEEXTREME 14.0 coding competition](certificates/workshop/IEEEXtreme14.0.pdf)
-- [Internet of things and robotics process automation](certificates/workshop/Mahbuba Habib(1).pdf)
+- [Internet of things and robotics process automation](certificates/workshop/MahbubaHabib(1).pdf)
 - [Workshop on Advanced Softwares for ICT” Organized by IICT, RUET](certificates/workshop/workshop.pdf)
 - Participated in Career catalyst that was organized by RUET CAREER FORUM
-- [Revolutionizing Industries with Artificial Intelligence and Machine Learning](certificates/workshop/Participation_Certificate_Mahbuba Habib.pdf)
+- [Revolutionizing Industries with Artificial Intelligence and Machine Learning](certificates/workshop/Participation_Certificate_Mahbuba.pdf)
 
 
 
