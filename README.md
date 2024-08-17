@@ -1,4 +1,4 @@
-# Android App Developer and Deep learning Enthusiastic
+# AI & Deep learning Enthusiastic
 I am an ECE graduate with a robust enthusiasm for accelerated learning and a commitment to exploring advanced concepts in academia. My primary research focus is on natural language processing, complemented by a strong passion for app development. I am dedicated to deepening my expertise in these domains and contributing to innovative advancements within the field.
 
 # Technical Skills: 
