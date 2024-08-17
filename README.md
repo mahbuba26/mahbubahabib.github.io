@@ -1,6 +1,21 @@
 # Android App Developer and Deep learning Enthusiastic
 I am an ECE graduate with a robust enthusiasm for accelerated learning and a commitment to exploring advanced concepts in academia. My primary research focus is on natural language processing, complemented by a strong passion for app development. I am dedicated to deepening my expertise in these domains and contributing to innovative advancements within the field.
-# Technical Skills: C, C++, Java, Python
+
+# Technical Skills: 
+**Programming Languages**: C, C++, Java, Python
+
+**Database**: MySQL Server
+
+**Numerical Analysis & Image Processing**: MATLAB
+
+**Microprocessor Programming**: 8086 Emulator
+
+**Network Simulator**: Cisco Packet Tracer
+
+**Frameworks & Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+**Softwares**: Android Studio, Jupyter Notebook, GitHub
+
 # Education
 - B.Sc in Electrical and Computer Engineering | Rajshahi University of Engineering & Technology (_May 2024_)
 
@@ -97,6 +112,7 @@ The system utilized a 12V input, with the output analyzed and measured using an 
 
 # Contact
 [Gmail](mahbuba.eceruet@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/mahbuba-h-408b461a6/)
    
 
